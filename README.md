@@ -22,8 +22,6 @@ Procedure:
 
 
 ### Conclusion 
-
-###output
 <img width="942" height="668" alt="Screenshot 2025-10-22 184201" src="https://github.com/user-attachments/assets/acef1214-f973-4de1-a643-04b2208c1f21" />
 <img width="1069" height="725" alt="Screenshot 2025-10-22 184234" src="https://github.com/user-attachments/assets/3c853738-8d84-4088-a115-94d5f208c488" />
 <img width="1040" height="429" alt="Screenshot 2025-10-22 184246" src="https://github.com/user-attachments/assets/9598fc99-a5f2-4ca6-97b1-b61a50bac5ca" />
